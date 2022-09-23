@@ -8,14 +8,7 @@ import urllib.request
 from typing import Any
 
 DONT_WATCH = (
-    'asottile2/',
-    'conda-forge/',
-    'getsentry/',
-    'GitHub-Stars/',
-    'PyCQA/',
-    'pypy/',
-    'pytest-dev/',
-    'tox-dev/',
+    'lyft/',
 )
 
 
